@@ -1,0 +1,95 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Poppins', sans-serif;
+  display: flex;
+  justify-content: center;
+}
+
+.container {
+  width: 332px;
+  margin-top: 46px;
+}
+
+.main__heading {
+  font-size: 24px;
+  font-weight: 600;
+  padding-bottom: 33px;
+}
+
+.sub__heading {
+  padding-bottom: 24px;
+}
+
+.vw__logo, .audi__logo {
+  width: 183px;
+  display: grid;
+  justify-self: center;
+}
+
+.vw__logo {
+  padding-top: 15px;
+}
+
+.audi__logo {
+  padding-top: 25px;
+}
+
+.card__container {
+  background-color: #EEEEEE;
+  margin-left: 23px;
+  margin-right: 23px;
+  margin-bottom: 60px;
+  border-radius: 15px;
+  padding-bottom: 24px;
+}
+
+.brand__name {
+  text-align: center;
+}
+
+.view__btn {
+  background-color: #2A4759;
+  color: #fff;
+  padding: 7px 37px;
+  border-radius: 20px;
+  text-decoration: none;
+  display: grid;
+  justify-self: center;
+  margin-top: 16px;
+}
+
+/* Make-Model */
+
+.vw__secondary__logo {
+  width: 66px;
+}
+
+.header__section {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+}
+
+.make__model__title {
+  font-size: 16px;
+  font-weight: 600;
+  margin-top: 40px;
+}
+
+.choose__model {
+  margin-top: 26px;
+}
+
+.model__name {
+  font-size: 14px;
+  display: block;
+  text-align: center;
+  text-decoration: none;
+  color: #183B4E;
+  padding: 8px 0;
+}
