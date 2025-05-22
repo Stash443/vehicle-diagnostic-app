@@ -107,11 +107,10 @@ header {
 
 .card__container {
   background-color: #eeee;
-  justify-items: center;
-  align-items: center;
   padding-top: 10px;
   padding-bottom: 25px;
   border-radius: 20px;
+  text-align: center;
 }
 
 .brand__name {
