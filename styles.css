@@ -110,7 +110,6 @@ header {
   padding-top: 10px;
   padding-bottom: 25px;
   border-radius: 20px;
-  text-align: center;
 }
 
 .brand__name {
@@ -118,6 +117,7 @@ header {
   font-weight: 600;
   color: #213358;
   padding-bottom: 25px;
+  text-align: center;
 }
 
 .view__btn {
