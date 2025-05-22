@@ -103,6 +103,7 @@ header {
 .brand__logo {
   font-family: 'Plaster', sans-serif;
   font-size: 50px;
+  text-align: center;
 }
 
 .card__container {
@@ -120,10 +121,14 @@ header {
   text-align: center;
 }
 
-.view__btn {
+.view__btn { 
   color: #fff;
   font-size: 14px;
   background-color: #213358;
   padding: 8px 37px;
   border-radius: 20px;
+}
+
+.btn__container {
+  text-align: center;
 }
